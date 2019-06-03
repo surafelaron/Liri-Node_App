@@ -1,0 +1,74 @@
+=====spotify search artist: Adele
+
+song name: Hello
+preview link: 25
+
+Album: 25
+=====spotify search artist: Adele
+song name: Hellopreview link: 25
+Album: 25=====spotify search 
+artist: Adele
+song name: Hellopreview link: 25
+Album: 25=====spotify search 
+artist: Adele
+song name: Hellopreview link: https://api.spotify.com/v1/tracks/4sPmO7WMQUAf45kwMOtONw
+
+Album: 25=====spotify search 
+artist: Adele
+song name: Hello
+preview link: https://api.spotify.com/v1/tracks/4sPmO7WMQUAf45kwMOtONw
+
+Album: 25
+=====spotify search====== 
+artist: Adele
+song name: Hello
+preview link: https://api.spotify.com/v1/tracks/4sPmO7WMQUAf45kwMOtONw
+
+Album: 25
+=====spotify search====== 
+artist: Adele
+song name: Hello
+preview link: https://api.spotify.com/v1/tracks/4sPmO7WMQUAf45kwMOtONw
+Album: 25
+
+=====spotify search====== 
+artist: Adele
+song name: Hello
+preview link: https://api.spotify.com/v1/tracks/4sPmO7WMQUAf45kwMOtONw
+Album: 25
+
+=====spotify search====== 
+artist: Usher
+song name: Yeah! (feat. Lil Jon & Ludacris)
+preview link: https://api.spotify.com/v1/tracks/5rb9QrpfcKFHM1EUbSIurX
+Album: Confessions (Expanded Edition)
+
+=====spotify search====== 
+artist: Usher
+song name: Yeah! (feat. Lil Jon & Ludacris)
+preview link: https://api.spotify.com/v1/tracks/5rb9QrpfcKFHM1EUbSIurX
+Album: Confessions (Expanded Edition)
+
+=====spotify search====== 
+artist: Ed Sheeran
+song name: Castle on the Hill
+preview link: https://api.spotify.com/v1/tracks/6PCUP3dWmTjcTtXY02oFdT
+Album: ÷ (Deluxe)
+
+=====spotify search====== 
+artist: Ed Sheeran
+song name: Castle on the Hill
+preview link: https://api.spotify.com/v1/tracks/6PCUP3dWmTjcTtXY02oFdT
+Album: ÷ (Deluxe)
+
+=====spotify search====== 
+artist: Toby Love
+song name: Why Do I Love You
+preview link: https://api.spotify.com/v1/tracks/1dkoRE0tYSHMBK34M12Q2U
+Album: Why Do I Love You
+
+=====spotify search====== 
+artist: The Chainsmokers
+song name: Who Do You Love (with 5 Seconds of Summer)
+preview link: https://api.spotify.com/v1/tracks/5QiNbIilmMiMBXvaAlf7lN
+Album: World War Joy...Do You Mean
