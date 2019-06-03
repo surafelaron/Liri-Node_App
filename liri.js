@@ -56,4 +56,22 @@ function spotifySong (songName){
         })
     })
 }
+function concert(musician){
+    var musician = userSearch;
+    var queryURL = "https://rest.bandsintown.com/artists/" + musician + "/events?app_id=codingbootcamp";
+    axios.get(queryURL).then(function (response){
+        console.log("====================================");
+        console.log("Artist: " + musician + "\r\n");
+        console.log("Place for the concert: " + response.data[0].venue.name + "\r\n");
+        console.log("location: " + response.data[0].venue.city + "\r\n");
+        console.log("Date: " + moment(response.data[0].datetime).format("MM-DD-YYYY") + "\r\n");
+        // append to log.txt
+        var randomConcert = "\r\n=======concert search======" + "\nName of singer(s): " + musician + "\nPlace for the concert: " +  response.data[0].venue.name + "\nLocation: " + response.data[0].venue.city + "\nDate: " + moment(response.data[0].datetime).format("MM-DD-YYYY");
+        fs.appendFile("log.txt", randomConcert, function(err){
+            if(err){
+                console.log(err);
+            }
+        })
+    })
+}
 liriConditions(instruction, userSearch);
