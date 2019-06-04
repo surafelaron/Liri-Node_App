@@ -73,5 +73,40 @@ function concert(musician){
             }
         })
     })
+};
+
+function omdbMovies(movie){
+    //var movie = userSearch;
+    var movieQueryUrl = "http://www.omdbapi.com/?t="+movie+"&y=&plot=short&apikey=trilogy";
+    axios.request(movieQueryUrl).then(function(response){
+        console.log("================================");
+        console.log("Title: " + response.data.Title + "\r\n");
+        console.log("Release Year: " + response.data.Year + "\r\n");
+        console.log("IMDB Rating: " + response.data.imdbRating + "\r\n");
+        // console.log("Rotten Tomato: " + response.data.Ratings[0].value + "\r\n");
+        console.log("Country where produced: " + response.data.Country + "\r\n");
+        console.log("Language: " + response.data.Language + "\r\n");
+        console.log("Plot: " + response.data.Plot + "\r\n");
+        console.log("Actors: " + response.data.Actors + "\r\n");
+        var randomMovies = "\n====movie search========" + "\nTitle: " + response.data.Title + "\nRelease Year: " + response.data.Year + "\nIMDB Rating: " + response.data.imdbRating + "\nRotten Tomato: " + response.data.Ratings[1].value + "\nCountry where produced: " + response.data.Country + "\nLanguage: " + response.data.Language + "\nPlot: " + response.data.Plot + "\nActors: " + response.data.Actors;
+        fs.appendFile("log.txt",randomMovies, function(err){
+            if(err){
+                console.log(err);
+            }
+        }) 
+    })
 }
+function doWhatSay(){
+    fs.readFile("rondom.txt", "utf8", function(err,data){
+        if(err){
+            console.log(err);
+        }else{
+            console.log(data)
+        var randomText = data.split(",");
+        
+    liriConditions(randomText[0], randomText[1]);
+    }
+    })
+}
+
 liriConditions(instruction, userSearch);
