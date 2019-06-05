@@ -109,3 +109,152 @@ Country where produced: USA, UK, Malta, Morocco
 Language: English
 Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
 Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+====movie search========
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Rotten Tomato: undefined
+Country where produced: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+=====spotify search====== 
+artist: Adele
+song name: Hello
+preview link: https://api.spotify.com/v1/tracks/4sPmO7WMQUAf45kwMOtONw
+Album: 25
+
+=====spotify search====== 
+artist: Elton John
+song name: Tiny Dancer
+preview link: https://api.spotify.com/v1/tracks/2TVxnKdb3tqe1nhQWwwZCO
+Album: Madman Across The Water
+
+=====spotify search====== 
+artist: Elton John
+song name: Tiny Dancer
+preview link: https://api.spotify.com/v1/tracks/2TVxnKdb3tqe1nhQWwwZCO
+Album: Madman Across The Water
+
+====movie search========
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Rotten Tomato: undefined
+Country where produced: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+====movie search========
+Title: The Killer
+Release Year: 1989
+IMDB Rating: 7.8
+Rotten Tomato: undefined
+Country where produced: Hong Kong
+Language: Cantonese, Mandarin, Japanese
+Plot: A disillusioned assassin accepts one last hit in hopes of using his earnings to restore vision to a singer he accidentally blinded, only to be double-crossed by his boss.
+Actors: Yun-Fat Chow, Danny Lee, Sally Yeh, Kong Chu
+====movie search========
+Title: Avengers: Infinity War
+Release Year: 2018
+IMDB Rating: 8.5
+Rotten Tomato: undefined
+Country where produced: USA
+Language: English
+Plot: The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.
+Actors: Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans
+====movie search========
+Title: Avengers: Infinity War
+Release Year: 2018
+IMDB Rating: 8.5
+Rotten Tomato: undefined
+Country where produced: USA
+Language: English
+Plot: The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.
+Actors: Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans
+====movie search========
+Title: The Other Woman
+Release Year: 2014
+IMDB Rating: 6.0
+Rotten Tomato: undefined
+Country where produced: USA
+Language: English
+Plot: After discovering her boyfriend is married, Carly soon meets the wife he's been betraying. And when yet another love affair is discovered, all three women team up to plot revenge on the three-timing S.O.B.
+Actors: Cameron Diaz, Leslie Mann, Nikolaj Coster-Waldau, Don Johnson
+====movie search========
+Title: Sleepless in Seattle
+Release Year: 1993
+IMDB Rating: 6.8
+Rotten Tomato: undefined
+Country where produced: USA
+Language: English
+Plot: A recently widowed man's son calls a radio talk-show in an attempt to find his father a partner.
+Actors: Tom Hanks, Ross Malinger, Rita Wilson, Victor Garber
+=======concert search======
+Name of singer(s): chainsmokers
+Place for the concert: XS Las Vegas
+Location: Las Vegas
+Date: 06-08-2019
+=======concert search======
+Name of singer(s): chainsmokers
+Place for the concert: XS Las Vegas
+Location: Las Vegas
+Date: 06-08-2019
+=======concert search======
+Name of singer(s): chainsmokers
+Place for the concert: XS Las Vegas
+Location: Las Vegas
+Date: 06-08-2019
+=======concert search======
+Name of singer(s): chainsmokers
+Place for the concert: XS Las Vegas
+Location: Las Vegas
+Date: 06-08-2019
+=======concert search======
+Name of singer(s): chainsmokers
+Place for the concert: XS Las Vegas
+Location: Las Vegas
+Date: 06-08-2019
+=======concert search======
+Name of singer(s): chainsmokers
+Place for the concert: XS Las Vegas
+Location: Las Vegas
+Date: 06-08-2019
+=======concert search======
+Name of singer(s): chainsmokers
+Place for the concert: XS Las Vegas
+Location: Las Vegas
+Date: 06-08-2019
+=======concert search======
+Name of singer(s): bruno mars
+Place for the concert: Monte Carlo Resort and Casino
+Location: Las Vegas
+Date: 09-03-2019
+=======concert search======
+Name of singer(s): metalica
+Place for the concert: SLANE CASTLE
+Location: Meath Green
+Date: 06-08-2019
+=======concert search======
+Name of singer(s): maroon five
+Place for the concert: O2 Arena
+Location: Prague
+Date: 06-05-2019
+====movie search========
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Rotten Tomato: undefined
+Country where produced: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+====movie search========
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Rotten Tomato: undefined
+Country where produced: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
